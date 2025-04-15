@@ -34,7 +34,7 @@ This course offers a comprehensive introduction to modern macroeconomic modeling
 This course provides an in-depth exploration of advanced econometric techniques designed for time series analysis, with applications in macroeconomics and finance. Emphasizing the unique features of time series data, the course equips students with tools to model economic dynamics and volatility, address non-stationarity, and conduct meaningful policy analysis. Topics covered include ARMA and distributed lag models, ARCH/GARCH models, unit root testing, forecasting methods, VARs and impulse response functions, local projections, state-space modeling, Kalman filtering, and Bayesian estimation of DSGE models. Through hands-on implementation and real-world applications, students will learn to estimate, interpret, and apply time series models to answer pressing economic questions related to monetary and fiscal policy.
 </p>
 <p class="research-buttons">
-  <a class="research-btn" href="{{ site.baseurl }}/static/uploads/395M_Syllabus.pdf" target="_blank">Syllabus</a>
+  <a class="research-btn" href="/static/uploads/395M_Syllabus.pdf" target="_blank">Syllabus</a>
 </p>
 
 <p style="margin-bottom: 0.5rem;">
