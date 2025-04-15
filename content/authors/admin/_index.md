@@ -3,7 +3,7 @@
 title: Sahil Ravgotra
 
 # Name pronunciation (optional)
-name_pronunciation: Sahil Ravgotra
+# name_pronunciation: Sahil Ravgotra
 
 # Full name (for SEO)
 first_name: Sahil
@@ -56,7 +56,7 @@ education:
 
 ## About Me
 
-I am an Assistant Professor of Economics at the <a href="https://liberalarts.utexas.edu/economics/faculty/sr55289" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Texas at Austin</a>, where I teach undergraduate and graduate courses in macroeconomics and time series econometrics. My research lies at the intersection of macroeconomic theory and behavioral economics, with a particular focus on monetary and fiscal policy in open economies.<p>
+I am an Assistant Professor of Economics at the <a href="https://liberalarts.utexas.edu/economics/faculty/sr55289" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Texas at Austin</a>, where I teach graduate and undergraduate courses in macroeconomics and time series econometrics. My research lies at the intersection of macroeconomic theory and behavioral economics, with a particular focus on monetary and fiscal policy in open economies.<p>
 
 <p>My work engages with dynamic stochastic general equilibrium (DSGE) models, exploring how bounded rationality, imperfect expectations, and credibility issues shape economic dynamics and policy outcomes. I often draw on Bayesian econometric methods to estimate and test these models using both macroeconomic and financial data.<p>
 
