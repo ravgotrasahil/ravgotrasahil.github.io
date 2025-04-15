@@ -2,7 +2,7 @@
 title: "Research"
 summary: "Research interests, publications, and works in progress."
 type: docs
-toc: false
+toc: true
 ---
 
 ## Research Interests
