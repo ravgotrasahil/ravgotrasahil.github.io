@@ -1,6 +1,6 @@
 ---
-title: "Research"
-summary: "Research interests, publications, and works in progress."
+title: ""
+summary: "Research"
 type: docs
 toc: true
 ---
