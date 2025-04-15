@@ -1,0 +1,25 @@
+.research-buttons {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.research-btn {
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #1a73e8 !important;
+  background-color: #eaf2fe !important;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none !important;
+  line-height: 1.3;
+  display: inline-block;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.research-btn:hover {
+  background-color: #dbe9fd !important;
+  color: #174ea6 !important;
+}
