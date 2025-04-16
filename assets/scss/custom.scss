@@ -37,3 +37,23 @@ ul.emoji-list > li:before {
 ul.emoji-list > li:hover:before {
     content: "😍";    /* change the emoji on hover! */
 }
+
+.syllabus-btn {
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  background-color: #035AA6;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.syllabus-btn:hover {
+  background-color: #023e73;
+  text-decoration: none;
+  color: white;
+}
