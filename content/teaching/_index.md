@@ -17,10 +17,9 @@ toc: false
 </p>
 <p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
 This course offers a comprehensive introduction to modern macroeconomic modeling, with an emphasis on constructing, simulating, and analyzing policy within dynamic frameworks. Tracing the evolution of macroeconomic models over the past four decades, we explore how the core structure of Real Business Cycle (RBC) models, enhanced with nominal rigidities and frictions, forms the foundation of New Keynesian Dynamic Stochastic General Equilibrium (DSGE) models. Students will learn to set up, calibrate, and simulate these models using Dynare in Matlab, starting with a basic Neoclassical Growth Model and progressing through closed- and open-economy RBC and NK models. The course also delves into optimal monetary policy, and extends the standard framework by incorporating bounded rationality, thereby addressing the implications of cognitive frictions for macroeconomic dynamics.
+  <a href="/uploads/394lsyllabus.pdf" class="syllabus-btn" target="_blank">View Syllabus</a>
 </p>
-<p class="research-buttons">
-  <a class="research-btn" href="uploads/394lsyllabus.pdf" target="_blank">Syllabus</a>
-</p>
+
 
 <p style="margin-bottom: 0.5rem;">
   <span style="font-size: 18px; color: #343851;">
