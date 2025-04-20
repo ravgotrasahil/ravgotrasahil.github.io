@@ -1,110 +1,64 @@
 ---
-title: ""
+title: "Research and Publications"
 summary: "Research"
 type: docs
 toc: true
 ---
 
-<h2>Research Interests</h2>
+## Research Interests
 
-<div style="font-size: 14px; color: #343851; text-align: justify;">
+<div class="research-interests">
   - Behavioral Macroeconomics<br>
   - Monetary Economics<br>
   - International Economics<br>
   - Macroeconometrics
 </div>
 
-<hr style="margin: 30px 0;">
+---
 
-<h2>Publications</h2>
+## Publications
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <a href="https://www.sciencedirect.com/science/article/pii/S0022199625000431" target="_blank" style="font-size: 18px; font-weight: bold; color: #1a73e8; text-decoration: none;">
-    Monetary Policy and Exchange Rate Dynamics in a Behavioral Open Economy Model
-  </a><br>
-  <span style="font-size: 14px; color: #555;">
-    with <a href="https://sites.google.com/view/marcin-kolasa/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Marcin Kolasa</a> and 
-    <a href="https://www.imf.org/en/Research/Researcher-CV/Author/Zabczyk-Pawel?AuthID=422#Background" target="_blank" style="color: #1a73e8; text-decoration: none;">Pawel Zabczyk</a>. 
-    <strong>Journal of International Economics</strong>, forthcoming.
-  </span>
-</p>
+### Monetary Policy and Exchange Rate Dynamics in a Behavioral Open Economy Model
+[Read on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0022199625000431){: .publication-title target="_blank" rel="noopener noreferrer"}
 
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
+<span class="publication-meta">
+  with [Marcin Kolasa](https://sites.google.com/view/marcin-kolasa/home){: target="_blank" rel="noopener noreferrer"} and 
+  [Pawel Zabczyk](https://www.imf.org/en/Research/Researcher-CV/Author/Zabczyk-Pawel?AuthID=422#Background){: target="_blank" rel="noopener noreferrer"}. 
+  **Journal of International Economics**, forthcoming.
+</span>
+
 We analyze the implications of adding boundedly rational agents à la Gabaix (2020) to the canonical New Keynesian open economy model. We show that accounting for myopia mitigates several “puzzling” aspects of the relationship between exchange rates and interest rates and helps explain why some of them only arise in the nested case of rational expectations. Bayesian estimation of the model demonstrates that high degrees of “cognitive discounting” significantly improve empirical fit. We also show that this form of bounded rationality makes positive international monetary spillovers more likely and exacerbates the unit root problem in small open economies with incomplete markets.
-</p>
 
-<p class="research-buttons">
-  <a class="research-btn" href="/uploads/jiepre.pdf" target="_blank">Published Version</a>
-  <a class="research-btn" href="/uploads/jieapp.pdf" target="_blank">Online Appendix</a>
-  <a class="research-btn" href="/uploads/imfwp.pdf" target="_blank">IMF Working Paper</a>
-  <a class="research-btn" href="https://data.mendeley.com/datasets/88kmcfxk8k/1" target="_blank">Replication Code</a>
-</p>
+<div class="research-buttons">
+  [Published Version](/uploads/jiepre.pdf){: .research-btn target="_blank"}
+  [Online Appendix](/uploads/jieapp.pdf){: .research-btn target="_blank"}
+  [IMF Working Paper](/uploads/imfwp.pdf){: .research-btn target="_blank"}
+  [Replication Code](https://data.mendeley.com/datasets/88kmcfxk8k/1){: .research-btn target="_blank"}
+</div>
 
-<hr style="margin: 30px 0;">
+---
 
-<h2>Work in Progress</h2>
+## Work in Progress
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <span style="font-size: 18px; color: #343851;">
-    New Keynesian Model of Debt and Equity without Rational Expectations
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    with <a href="https://sites.google.com/site/professorbrucepreston" target="_blank" style="color: #1a73e8; text-decoration: none;">Bruce Preston</a> and 
-    <a href="https://sites.google.com/view/stefano-eusepi/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Stefano Eusepi</a>.
-  </span>
-</p>
+### New Keynesian Model of Debt and Equity without Rational Expectations
+with [Bruce Preston](https://sites.google.com/site/professorbrucepreston){: target="_blank" rel="noopener noreferrer"} and 
+[Stefano Eusepi](https://sites.google.com/view/stefano-eusepi/home){: target="_blank" rel="noopener noreferrer"}.
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <span style="font-size: 18px; color: #343851;">
-    Fiscal Consolidation and Bounded Rationality
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    with <a href="https://sites.google.com/site/hsjoo214" target="_blank" style="color: #1a73e8; text-decoration: none;">Hyungseok Joo</a>.
-  </span>
-</p>
+### Fiscal Consolidation and Bounded Rationality
+with [Hyungseok Joo](https://sites.google.com/site/hsjoo214){: target="_blank" rel="noopener noreferrer"}.
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <span style="font-size: 18px; color: #343851;">
-    Linear-Quadratic Approximation of a Small Open Economy NK Model
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    with <a href="https://www.surrey.ac.uk/people/leilane-de-freitas-rocha-cambara" target="_blank" style="color: #1a73e8; text-decoration: none;">Leilane Cambara</a> and 
-    <a href="https://ideas.repec.org/f/ple338.html" target="_blank" style="color: #1a73e8; text-decoration: none;">Paul Levine</a>.
-  </span>
-</p>
+### Linear-Quadratic Approximation of a Small Open Economy NK Model
+with [Leilane Cambara](https://www.surrey.ac.uk/people/leilane-de-freitas-rocha-cambara){: target="_blank" rel="noopener noreferrer"} and 
+[Paul Levine](https://ideas.repec.org/f/ple338.html){: target="_blank" rel="noopener noreferrer"}.
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <span style="font-size: 18px; color: #343851;">
-    Habit, Forward Guidance, and Monetary Policy
-  </span>
-</p>
+### Habit, Forward Guidance, and Monetary Policy
 
-<hr style="margin: 30px 0;">
+---
 
-<h2>Discussions</h2>
+## Discussions
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <a href="https://drive.google.com/file/d/1yfWxkPo2NuHeadbL-H3L9kxhA2INNFXi/view" target="_blank" style="font-size: 18px; font-weight: bold; color: #1a73e8; text-decoration: none;">
-    Endogenous Cognitive Discounting
-  </a><br>
-  <span style="font-size: 14px; color: #555;">
-    by <a href="https://sites.google.com/view/jamesmoberly/home?authuser=0" target="_blank" style="color: #1a73e8; text-decoration: none;">James Moberly</a>. 
-  </span>
-</p>
-<p class="research-buttons">
-  <a class="research-btn" href="/uploads/discussionmoberly.pdf" target="_blank">Slides</a>
-</p>
+### Endogenous Cognitive Discounting
+[Slides](/uploads/discussionmoberly.pdf){: .research-btn target="_blank"}
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
-  <a href="https://sites.google.com/view/vanhn/research?authuser=0" target="_blank" style="font-size: 18px; font-weight: bold; color: #1a73e8; text-decoration: none;">
-    Monetary Policy in a Small Open Economy with Multiple Monetary Assets
-  </a><br>
-  <span style="font-size: 14px; color: #555;">
-    by
-    <a href="https://econ.tepper.cmu.edu/barnett/welcome.html" target="_blank" style="color: #1a73e8; text-decoration: none;">William Barnett</a>
-    and <a href="https://sites.google.com/view/vanhn/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Van Nguyen</a>. 
-  </span>
-</p>
-<p class="research-buttons">
-  <a class="research-btn" href="/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
-</p>
+### Monetary Policy in a Small Open Economy with Multiple Monetary Assets
+[Slides](/uploads/discussionnguyen.pdf){: .research-btn target="_blank"}
