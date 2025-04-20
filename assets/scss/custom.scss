@@ -1,4 +1,3 @@
-
 /*-- scss:defaults --*/
 // See customization options here https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss //
 
@@ -6,36 +5,36 @@ pre,
 code {
   color: #035AA6;
   // background-color: rgb(68, 71, 90);
-  font-family: papyrus;
+  font-family: "Courier New", Consolas, monospace; // Updated to a monospaced font for better readability
 }
 
-ul.check-mark-list   { /*choose your own descriptive class name. */
-    list-style-type: none;   /* remove the default list bullet */
+ul.check-mark-list { /* Choose your own descriptive class name */
+  list-style-type: none; /* Remove the default list bullet */
 }
 
 ul.check-mark-list > li:before {
-   content: "\f14a";  /* put the fontawesome unicode here preceded by slash */
-   font-family: "Font Awesome 5 Free";
-   font-weight: 900;    /* required for Free version */
-   margin-right: 13px;  /* Spacing between bullet and list text */
-   color: #035AA6;       /* we fancy */
-   width: 1em; /* Also needed for space (tweak if needed) */
-   margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+  content: "\f14a"; /* Put the Font Awesome unicode here preceded by slash */
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900; /* Required for Free version */
+  margin-right: 13px; /* Spacing between bullet and list text */
+  color: #035AA6; /* We fancy */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1.5em; /* Also needed for space (tweak if needed) */
 }
 
 ul.emoji-list {
-    list-style-type: none;  /* remove default bullet */
+  list-style-type: none; /* Remove default bullet */
 }
 
 ul.emoji-list > li:before {
-    content: "🤩";  /* create the pseudo-element and add emoji */
-    margin-right: 8px;  /* spacing between bullet and text */
-    width: 1em; /* Also needed for space (tweak if needed) */
-    margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+  content: "🤩"; /* Create the pseudo-element and add emoji */
+  margin-right: 8px; /* Spacing between bullet and text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1.5em; /* Also needed for space (tweak if needed) */
 }
 
 ul.emoji-list > li:hover:before {
-    content: "😍";    /* change the emoji on hover! */
+  content: "😍"; /* Change the emoji on hover! */
 }
 
 .research-buttons {
@@ -60,8 +59,60 @@ ul.emoji-list > li:hover:before {
 }
 
 .research-btn:hover {
+  background-color: #dbe9fd !important; /* Ensure sufficient contrast */
+  color: #174ea6 !important; /* Ensure sufficient contrast */
+}
+
+.research-interests {
+  font-size: 14px;
+  color: #343851;
+  text-align: justify;
+}
+
+.publication-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.publication-meta {
+  font-size: 14px;
+  color: #555;
+}
+
+.course-title {
+  font-size: 18px;
+  color: #343851;
+}
+
+.course-meta {
+  font-size: 14px;
+  color: #555;
+}
+
+.course-description {
+  font-size: 14px;
+  color: #555;
+  margin-top: 5px;
+  text-align: justify;
+}
+
+.research-buttons .research-btn {
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #1a73e8 !important;
+  background-color: #eaf2fe !important;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none !important;
+  line-height: 1.3;
+  display: inline-block;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.research-buttons .research-btn:hover {
   background-color: #dbe9fd !important;
   color: #174ea6 !important;
 }
-
-
