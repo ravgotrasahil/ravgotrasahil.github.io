@@ -34,10 +34,10 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 </p>
 
 <p class="research-buttons">
-  <a class="research-btn" href="{{ site.baseurl }}/static/uploads/JIE_pre.pdf" target="_blank">Published Version</a>
-  <a class="research-btn" href="{{ site.baseurl }}/static/uploads/JIE_app.pdf" target="_blank">Online Appendix</a>
-  <a class="research-btn" href="{{ site.baseurl }}/static/uploads/IMF_WP.pdf" target="_blank">IMF Working Paper</a>
-  <a class="research-btn" href="https://data.mendeley.com/datasets/88kmcfxk8k/1" target="_blank">Replication Code</a>
+  <a class="custom-btn" href="{{ site.baseurl }}/static/uploads/JIE_pre.pdf" target="_blank">Published Version</a>
+  <a class="custom-btn" href="{{ site.baseurl }}/static/uploads/JIE_app.pdf" target="_blank">Online Appendix</a>
+  <a class="custom-btn" href="{{ site.baseurl }}/static/uploads/IMF_WP.pdf" target="_blank">IMF Working Paper</a>
+  <a class="custom-btn" href="https://data.mendeley.com/datasets/88kmcfxk8k/1" target="_blank">Replication Code</a>
 </p>
 
 <hr style="margin: 30px 0;">
@@ -91,8 +91,8 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
     by <a href="https://sites.google.com/view/jamesmoberly/home?authuser=0" target="_blank" style="color: #1a73e8; text-decoration: none;">James Moberly</a>. 
   </span>
 </p>
-<p class="research-buttons">
-  <a class="research-btn" href="{{ site.baseurl }}/static/uploads/Discussion_Moberly.pdf" target="_blank">Slides</a>
+<p class="custom-buttons">
+  <a class="custom-btn" href="{{ site.baseurl }}/static/uploads/Discussion_Moberly.pdf" target="_blank">Slides</a>
 </p>
 
 <p style="margin-bottom: 0.5rem; text-align: justify;">
@@ -105,6 +105,6 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
     and <a href="https://sites.google.com/view/vanhn/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Van Nguyen</a>. 
   </span>
 </p>
-<p class="research-buttons">
-  <a class="research-btn" href="{{ site.baseurl }}/static/uploads/Discussion_Nguyen.pdf" target="_blank">Slides</a>
+<p class="custom-buttons">
+  <a class="custom-btn" href="{{ site.baseurl }}/static/uploads/Discussion_Nguyen.pdf" target="_blank">Slides</a>
 </p>
