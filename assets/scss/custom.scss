@@ -38,14 +38,14 @@ ul.emoji-list > li:hover:before {
     content: "😍";    /* change the emoji on hover! */
 }
 
-.custom-buttons {
+.research-buttons {
   margin-top: 1rem;
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
 
-.custom-btn {
+.research-btn {
   padding: 6px 12px;
   font-size: 13px;
   font-weight: 500;
@@ -59,8 +59,9 @@ ul.emoji-list > li:hover:before {
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-.custom-btn:hover {
+.research-btn:hover {
   background-color: #dbe9fd !important;
   color: #174ea6 !important;
 }
+
 
