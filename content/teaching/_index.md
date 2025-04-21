@@ -1,7 +1,8 @@
 ---
 title: ""
 summary: "My courses"
-type: docs
+type: page
+layout: section-left
 toc: false
 ---
 
