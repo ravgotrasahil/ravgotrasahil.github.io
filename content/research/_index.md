@@ -1,6 +1,6 @@
 ---
-title: ""
-summary: "Research"
+title: "Research"
+summary: ""
 type: docs
 toc: false
 ---
