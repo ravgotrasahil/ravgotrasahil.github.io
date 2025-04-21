@@ -1,3 +1,10 @@
+---
+title: "Teaching"
+summary: "Teaching"
+type: docs
+toc: true
+---
+
 <h2>Instructor: University of Texas at Austin</h2>
 
 <p style="margin-bottom: 0.5rem;">
