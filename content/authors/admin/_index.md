@@ -46,7 +46,8 @@ profiles:
 
 interests:
   - Macroeconomics
-  - Monetary Theory
+  - International Economics
+  - DSGE Modelling
   - Non-Rational Expectations
 
 education:
