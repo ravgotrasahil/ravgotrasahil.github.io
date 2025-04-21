@@ -23,3 +23,32 @@
   background-color: #eaf2fe;
   color: #174ea6;
 }
+
+.publication-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+}
+
+.publication-title-left {
+  flex: 1 1 25%;
+  padding: 1rem;
+}
+
+.publication-title-left h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #222;
+  margin-top: 0;
+}
+
+.publication-content-right {
+  flex: 1 1 75%;
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .publication-wrapper {
+    flex-direction: column;
+  }
+}
