@@ -8,7 +8,7 @@ design:
   background: light
 ---
 
-{{< rawhtml >}}
+
 
 <h2>Instructor: University of Texas at Austin</h2>
 
@@ -175,4 +175,3 @@ This three-day course offers an introduction to DSGE modeling for MSc, MRES, PhD
 </p>
 
 
-{{< /rawhtml >}}
