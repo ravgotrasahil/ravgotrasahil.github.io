@@ -100,7 +100,8 @@ ul.emoji-list > li:hover:before {
   text-align: justify;
 }
 
-html {
-  scroll-behavior: smooth;
+.navbar .nav-link.active {
+  color: #2a7a64 !important;  /* Deep green */
+  font-weight: 600;
 }
 
