@@ -1,8 +1,8 @@
 ---
-title: "Research"
+title: ""
 summary: "Research"
 type: docs
-toc: true
+toc: false
 ---
 
 <h2>Research Interests</h2>
