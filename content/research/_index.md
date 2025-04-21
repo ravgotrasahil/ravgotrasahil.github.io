@@ -1,8 +1,7 @@
 ---
 title: "Research"
 summary: ""
-type: page
-layout: section-left
+type: docs
 toc: false
 ---
 
