@@ -7,6 +7,9 @@ toc: false
 
 <div class="publication-wrapper">
   <div class="publication-title-left">
+    <h1>Publications</h1>
+  </div>
+  <div class="publication-content-right">
 
 <h2>Research Interests</h2>
 
