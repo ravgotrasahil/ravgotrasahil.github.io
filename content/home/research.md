@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: markdown
 headless: true
 section_id: research
 weight: 20
