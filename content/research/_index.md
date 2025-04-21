@@ -5,6 +5,9 @@ type: docs
 toc: false
 ---
 
+<div class="publication-wrapper">
+  <div class="publication-title-left">
+
 <h2>Research Interests</h2>
 
 <div style="font-size: 14px; color: #343851; text-align: justify;">
@@ -108,3 +111,6 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 <p class="research-buttons">
   <a class="research-btn" href="/sahilweb/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
 </p>
+
+</div>
+</div>
