@@ -4,53 +4,54 @@
 pre,
 code {
   color: #035AA6;
-  // background-color: rgb(68, 71, 90);
-  font-family: "Courier New", Consolas, monospace; // Updated to a monospaced font for better readability
+  font-family: "Courier New", Consolas, monospace;
 }
 
-ul.check-mark-list { /* Choose your own descriptive class name */
-  list-style-type: none; /* Remove the default list bullet */
+/* Custom list styles */
+ul.check-mark-list {
+  list-style-type: none;
 }
 
 ul.check-mark-list > li:before {
-  content: "\f14a"; /* Put the Font Awesome unicode here preceded by slash */
+  content: "\f14a";
   font-family: "Font Awesome 5 Free";
-  font-weight: 900; /* Required for Free version */
-  margin-right: 13px; /* Spacing between bullet and list text */
-  color: #035AA6; /* We fancy */
-  width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+  font-weight: 900;
+  margin-right: 13px;
+  color: #035AA6;
+  width: 1em;
+  margin-left: -1.5em;
 }
 
 ul.emoji-list {
-  list-style-type: none; /* Remove default bullet */
+  list-style-type: none;
 }
 
 ul.emoji-list > li:before {
-  content: "🤩"; /* Create the pseudo-element and add emoji */
-  margin-right: 8px; /* Spacing between bullet and text */
-  width: 1em; /* Also needed for space (tweak if needed) */
-  margin-left: -1.5em; /* Also needed for space (tweak if needed) */
+  content: "🤩";
+  margin-right: 8px;
+  width: 1em;
+  margin-left: -1.5em;
 }
 
 ul.emoji-list > li:hover:before {
-  content: "😍"; /* Change the emoji on hover! */
+  content: "😍";
 }
 
+/* Research Buttons */
 .research-buttons {
   margin-top: 1rem;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.75rem;
 }
 
 .research-btn {
-  padding: 6px 12px;
-  font-size: 13px;
+  padding: 6px 14px;
+  font-size: 14px;
   font-weight: 500;
   color: #1a73e8 !important;
-  background-color: #eaf2fe !important;
-  border: none;
+  background-color: transparent;
+  border: 1.5px solid #1a73e8;
   border-radius: 6px;
   text-decoration: none !important;
   line-height: 1.3;
@@ -59,10 +60,11 @@ ul.emoji-list > li:hover:before {
 }
 
 .research-btn:hover {
-  background-color: #dbe9fd !important; /* Ensure sufficient contrast */
-  color: #174ea6 !important; /* Ensure sufficient contrast */
+  background-color: #eaf2fe !important;
+  color: #174ea6 !important;
 }
 
+/* Text Styling */
 .research-interests {
   font-size: 14px;
   color: #343851;
@@ -96,23 +98,4 @@ ul.emoji-list > li:hover:before {
   color: #555;
   margin-top: 5px;
   text-align: justify;
-}
-
-.research-buttons .research-btn {
-  padding: 6px 12px;
-  font-size: 13px;
-  font-weight: 500;
-  color: #1a73e8 !important;
-  background-color: #eaf2fe !important;
-  border: none;
-  border-radius: 6px;
-  text-decoration: none !important;
-  line-height: 1.3;
-  display: inline-block;
-  transition: background-color 0.2s ease, color 0.2s ease;
-}
-
-.research-buttons .research-btn:hover {
-  background-color: #dbe9fd !important;
-  color: #174ea6 !important;
 }
