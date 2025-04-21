@@ -1,15 +1,10 @@
 ---
 title: "Research"
 summary: ""
-type: docs
+type: page
+layout: section-left
 toc: false
 ---
-
-<div class="publication-wrapper">
-  <div class="publication-title-left">
-    <h1>Publications</h1>
-  </div>
-  <div class="publication-content-right">
 
 <h2>Research Interests</h2>
 
@@ -115,5 +110,3 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   <a class="research-btn" href="/sahilweb/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
 </p>
 
-</div>
-</div>
