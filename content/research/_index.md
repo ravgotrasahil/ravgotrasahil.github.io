@@ -5,15 +5,6 @@ type: docs
 toc: false
 ---
 
-<h2>Research Interests</h2>
-
-<div style="font-size: 14px; color: #343851; text-align: justify;">
-  - Behavioral Macroeconomics<br>
-  - Monetary Economics<br>
-  - International Economics<br>
-  - Macroeconometrics
-</div>
-
 <hr style="margin: 30px 0;">
 
 <h2>Publications</h2>
