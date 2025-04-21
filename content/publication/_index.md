@@ -35,8 +35,8 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 
 <p class="research-buttons">
   <a class="research-btn" href="/sahilweb/uploads/jie.pdf" target="_blank">Published Version</a>
-  <a class="research-btn" href="/uploads/jieapp.pdf" target="_blank">Online Appendix</a>
-  <a class="research-btn" href="/uploads/imfwp.pdf" target="_blank">IMF Working Paper</a>
+  <a class="research-btn" href="/sahilweb/uploads/jieapp.pdf" target="_blank">Online Appendix</a>
+  <a class="research-btn" href="/sahilweb/uploads/imfwp.pdf" target="_blank">IMF Working Paper</a>
   <a class="research-btn" href="https://data.mendeley.com/datasets/88kmcfxk8k/1" target="_blank">Replication Code</a>
 </p>
 
@@ -92,7 +92,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   </span>
 </p>
 <p class="research-buttons">
-  <a class="research-btn" href="/uploads/discussionmoberly.pdf" target="_blank">Slides</a>
+  <a class="research-btn" href="/sahilweb/uploads/discussionmoberly.pdf" target="_blank">Slides</a>
 </p>
 
 <p style="margin-bottom: 0.5rem; text-align: justify;">
@@ -106,5 +106,5 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   </span>
 </p>
 <p class="research-buttons">
-  <a class="research-btn" href="/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
+  <a class="research-btn" href="/sahilweb/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
 </p>
