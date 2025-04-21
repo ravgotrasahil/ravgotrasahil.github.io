@@ -48,6 +48,8 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+  attribution:
+    enable: false
 
 # Localization
 locale:
@@ -63,4 +65,3 @@ features:
 
 custom_scss:
   - scss/custom.scss
-
