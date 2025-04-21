@@ -8,8 +8,6 @@ design:
   background: light
 ---
 
-{{< rawhtml >}}
-
 <h2>Research Interests</h2>
 
 <div style="font-size: 14px; color: #343851; text-align: justify;">
@@ -114,4 +112,3 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   <a class="research-btn" href="/sahilweb/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
 </p>
 
-{{< /rawhtml >}}
