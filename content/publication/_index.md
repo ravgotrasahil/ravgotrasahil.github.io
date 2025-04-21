@@ -34,7 +34,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 </p>
 
 <p class="research-buttons">
-  <a class="research-btn" href="{{ "uploads/jie.pdf" | relURL }}" target="_blank">Published Version</a>
+  <a class="research-btn" href="/sahilweb/uploads/jie.pdf" target="_blank">Published Version</a>
   <a class="research-btn" href="/uploads/jieapp.pdf" target="_blank">Online Appendix</a>
   <a class="research-btn" href="/uploads/imfwp.pdf" target="_blank">IMF Working Paper</a>
   <a class="research-btn" href="https://data.mendeley.com/datasets/88kmcfxk8k/1" target="_blank">Replication Code</a>
