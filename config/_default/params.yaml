@@ -43,6 +43,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Sahil Ravgotra. All rights reserved.'
+    i_am_a_sponsor: true
     license:
       enable: false
       allow_derivatives: false
@@ -63,7 +64,7 @@ features:
   privacy_pack:
     enable: false
 
-  i_am_a_sponsor: true
+
 
 custom_scss:
   - scss/custom.scss
