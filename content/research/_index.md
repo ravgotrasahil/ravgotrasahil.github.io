@@ -5,7 +5,7 @@ type: page
 toc: false
 ---
 
-
+<div style="padding-left: 1rem; padding-right: 1rem;">
 <hr style="margin: 30px 0;">
 
 <h2>Publications</h2>
@@ -100,3 +100,5 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 <p class="research-buttons">
   <a class="research-btn" href="/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
 </p>
+
+</div>
