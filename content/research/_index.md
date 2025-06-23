@@ -17,7 +17,7 @@ toc: false
   <span style="font-size: 14px; color: #555;">
     with <a href="https://sites.google.com/view/marcin-kolasa/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Marcin Kolasa</a> and 
     <a href="https://www.imf.org/en/Research/Researcher-CV/Author/Zabczyk-Pawel?AuthID=422#Background" target="_blank" style="color: #1a73e8; text-decoration: none;">Pawel Zabczyk</a>. 
-    <strong>Journal of International Economics</strong>, forthcoming.
+    <strong>Journal of International Economics</strong> 155: 104087 (2025).
   </span>
 </p>
 
