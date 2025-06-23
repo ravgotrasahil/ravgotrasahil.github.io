@@ -1,8 +1,10 @@
 ---
-title: ""
-type: docs
-toc: true
+title: "Teaching"
+layout: page
+type: page
+toc: false
 ---
+
 
 <h2>Instructor: University of Texas at Austin</h2>
 
