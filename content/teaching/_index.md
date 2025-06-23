@@ -1,7 +1,7 @@
 ---
 title: ""
 type: docs
-toc: false
+toc: true
 ---
 
 <h2>Instructor: University of Texas at Austin</h2>
