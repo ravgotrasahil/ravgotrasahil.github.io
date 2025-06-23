@@ -112,6 +112,13 @@ ul.emoji-list > li:hover:before {
   background-color: #ccc;
 }
 
+/* Make the left profile panel sticky */
+.profile-widget {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px; /* adjust based on your navbar height */
+  z-index: 100;
+}
 
 
 
