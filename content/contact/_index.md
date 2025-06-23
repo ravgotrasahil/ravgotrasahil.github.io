@@ -14,7 +14,8 @@ toc: false
     You can reach me by e-mail at:
   </span><br>
   <span style="font-size: 14px; color: #555;">
-    Undergraduate | Fall 2015-19
+    <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a>
+    <a href="mailto:sa.ravgotra@gmail.com" style="color: #1a73e8; text-decoration: none;">sa.ravgotra@gmail.com</a>
   </span>
 </p>
 
