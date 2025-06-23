@@ -42,7 +42,6 @@ header:
 
 # Site footer
 footer:
-i_am_a_sponsor: true
   copyright:
     notice: '© {year} Sahil Ravgotra. All rights reserved.'
     license:
