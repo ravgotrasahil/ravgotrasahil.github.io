@@ -23,10 +23,10 @@ toc: false
   Campus mail code: C3100
 </p>
 
-<h2>How to reach me:</h2>
+<h2>How to find my office:</h2>
 
 <p style="font-size: 14px; color: #555;">
-  My office is <strong>BRB 3.128</strong> in the Department of Economics. It’s on the 3rd floor of the Bernard and Audre Rapoport (BRB) Building, which is less than 0.1 miles from Gregory Gym and situated right next to the Student Activity Center. If you enter BRB from Speedway, take the stairs on your left to the third floor. When you reach the top, turn left, then left again. My office is immediately on the right at the start of that hallway.
+  My office is <strong>BRB 3.128</strong> in the Department of Economics. It’s on the <strong>3rd</strong> floor of the Bernard and Audre Rapoport (<strong>BRB</strong>) Building, which is less than 0.1 miles from Gregory Gym and situated right next to the Student Activity Center. If you enter BRB from Speedway, take the stairs on your left to the third floor. When you reach the top, turn left, then left again. My office is immediately on the right at the start of that hallway.
 </p>
 
 <p style="font-size: 14px; color: #555;">
