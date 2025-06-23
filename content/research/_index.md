@@ -1,8 +1,10 @@
 ---
-title: ""
-type: docs
-toc: true
+title: "Research"
+layout: page
+type: page
+toc: false
 ---
+
 
 <hr style="margin: 30px 0;">
 
