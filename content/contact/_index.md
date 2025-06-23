@@ -13,23 +13,22 @@ toc: false
 
 <p style="font-size: 14px; color: #555;">
   <strong>You can reach me by email at:</strong><br>
-  style="font-size: 14px; color: #343851;">
-    <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a> or 
-    <a href="mailto:sa.ravgotra@gmail.com" style="color: #1a73e8; text-decoration: none;">sa.ravgotra@gmail.com</a>
+  <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a><br>
+  <a href="mailto:sa.ravgotra@gmail.com" style="color: #1a73e8; text-decoration: none;">sa.ravgotra@gmail.com</a>
 </p>
 
 <p style="font-size: 14px; color: #555;">
   <strong>My mailing address at work is:</strong><br>
   Department of Economics<br>
   University of Texas at Austin<br>
-  2225 Speedway, Austin, TX 78712, USA
+  2225 Speedway, Austin, TX 78712, USA<br>
   Campus mail code: C3100
 </p>
 
 <h2>How to reach me:</h2>
 
 <p style="font-size: 14px; color: #555;">
-  My office is <strong>BRB 3.128</strong> in the Department of Economics. It’s on the 3th floor of the Bernard and Audre Rapoport (BRB) Building, which is less than 0.1 miles form Gregory Gym and and is situated right next to the Student Activity Center. f you enter BRB from Speedway, take the stairs on your left to the third floor. When you reach the top, turn left, then left again. My office is immediately on the right at the start of that hallway.
+  My office is <strong>BRB 3.128</strong> in the Department of Economics. It’s on the 3rd floor of the Bernard and Audre Rapoport (BRB) Building, which is less than 0.1 miles from Gregory Gym and situated right next to the Student Activity Center. If you enter BRB from Speedway, take the stairs on your left to the third floor. When you reach the top, turn left, then left again. My office is immediately on the right at the start of that hallway.
 </p>
 
 <iframe
@@ -41,6 +40,5 @@ toc: false
   loading="lazy"
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
-
 
 </div>
