@@ -5,12 +5,11 @@ type: page
 toc: false
 ---
 
-
 <hr style="margin: 30px 0;">
 
 <h2>Publications</h2>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <a href="https://www.sciencedirect.com/science/article/pii/S0022199625000431" target="_blank" style="font-size: 18px; font-weight: bold; color: #1a73e8; text-decoration: none;">
     Monetary Policy and Exchange Rate Dynamics in a Behavioral Open Economy Model
   </a><br>
@@ -21,7 +20,7 @@ toc: false
   </span>
 </p>
 
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
+<p style="font-size: 14px; color: #555; margin-top: 5px;">
 We analyze the implications of adding boundedly rational agents à la Gabaix (2020) to the canonical New Keynesian open economy model. We show that accounting for myopia mitigates several “puzzling” aspects of the relationship between exchange rates and interest rates and helps explain why some of them only arise in the nested case of rational expectations. Bayesian estimation of the model demonstrates that high degrees of “cognitive discounting” significantly improve empirical fit. We also show that this form of bounded rationality makes positive international monetary spillovers more likely and exacerbates the unit root problem in small open economies with incomplete markets.
 </p>
 
@@ -36,7 +35,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 
 <h2>Work in Progress</h2>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <span style="font-size: 18px; color: #343851;">
     New Keynesian Model of Debt and Equity without Rational Expectations
   </span><br>
@@ -46,7 +45,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   </span>
 </p>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <span style="font-size: 18px; color: #343851;">
     Fiscal Consolidation and Bounded Rationality
   </span><br>
@@ -55,7 +54,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   </span>
 </p>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <span style="font-size: 18px; color: #343851;">
     Linear-Quadratic Approximation of a Small Open Economy NK Model
   </span><br>
@@ -65,7 +64,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   </span>
 </p>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <span style="font-size: 18px; color: #343851;">
     Habit, Forward Guidance, and Monetary Policy
   </span>
@@ -75,7 +74,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 
 <h2>Discussions</h2>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <a href="https://drive.google.com/file/d/1yfWxkPo2NuHeadbL-H3L9kxhA2INNFXi/view" target="_blank" style="font-size: 18px; font-weight: bold; color: #1a73e8; text-decoration: none;">
     Endogenous Cognitive Discounting
   </a><br>
@@ -87,7 +86,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
   <a class="research-btn" href="/uploads/discussionmoberly.pdf" target="_blank">Slides</a>
 </p>
 
-<p style="margin-bottom: 0.5rem; text-align: justify;">
+<p style="margin-bottom: 0.5rem;">
   <a href="https://sites.google.com/view/vanhn/research?authuser=0" target="_blank" style="font-size: 18px; font-weight: bold; color: #1a73e8; text-decoration: none;">
     Monetary Policy in a Small Open Economy with Multiple Monetary Assets
   </a><br>
