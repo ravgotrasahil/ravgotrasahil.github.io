@@ -56,12 +56,13 @@ education:
 ---
 
 ## About Me
-
+<div style="text-align: justify; font-size: 14px; color: #555;">
 I am an Assistant Professor of Economics at the <a href="https://liberalarts.utexas.edu/economics/faculty/sr55289" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Texas at Austin</a>, where I teach graduate and undergraduate courses in macroeconomics and time series econometrics. <p>
 
 <p> My research lies at the intersection of macroeconomic theory and behavioral economics, with a particular focus on monetary and fiscal policy in open economies. My work engages with dynamic stochastic general equilibrium (DSGE) models, exploring how bounded rationality, imperfect expectations, and credibility issues shape economic dynamics and policy outcomes. I often draw on Bayesian econometric methods to estimate and test these models using both macroeconomic and financial data.<p>
 
 <p>I received my PhD in Economics from the <a href="https://www.surrey.ac.uk/economics" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Surrey, UK</a>, where I was awarded the Postgraduate Researcher of the Year prize and held a Turing Fellowship.<p>
+</div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a class="research-btn" href="/uploads/sahilcv.pdf" target="_blank">Download CV</a>
