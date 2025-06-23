@@ -7,6 +7,21 @@ toc: false
 
 <div style="padding-left: 1rem; padding-right: 1rem;">
 
+<h2>How to contact me:</h2>
+
+<p style="margin-bottom: 0.5rem;">
+  <span style="font-size: 18px; color: #343851;">
+    You can reach me by e-mail at:
+  </span><br>
+  <span style="font-size: 14px; color: #555;">
+    Undergraduate | Fall 2015-19
+  </span>
+</p>
+
+
+
+
+
 <p style="font-size: 16px; color: #555;">
 <b>How to contact me:</b><br>
 - You can reach me by e-mail at 
