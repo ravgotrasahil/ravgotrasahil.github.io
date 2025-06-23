@@ -1,11 +1,11 @@
 ---
-title: "Teaching"
+title: ""
 layout: page
 type: page
 toc: false
 ---
 
-<hr style="margin: 30px 0;">
+<div style="padding-left: 1rem; padding-right: 1rem;">
 
 <h2>Instructor: University of Texas at Austin</h2>
 
@@ -169,3 +169,6 @@ This three-day course offers an introduction to DSGE modeling for MSc, MRES, PhD
     Undergraduate | Fall 2015-19
   </span>
 </p>
+
+
+</div>
