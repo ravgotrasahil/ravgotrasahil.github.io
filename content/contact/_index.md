@@ -10,7 +10,7 @@ toc: false
 <p style="font-size: 16px; color: #555;">
 <b>How to contact me:</b><br>
 - You can reach me by e-mail at 
-  <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8;">sahil.ravgotra@ausytin.utexas.edu</a>
+  <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8;">sahil.ravgotra@ausytin.utexas.edu</a> or
 <a href="mailto:sa.ravgotra@gmail.com" style="color: #1a73e8;">sa.ravgotra@gmail.com</a>
 - My mailing address at work is:  <br>
 BRB 3.218, Department of Economics, <br>
