@@ -1,8 +1,7 @@
 ---
-title: "Research"
-layout: page
-type: page
-toc: false
+title: ""
+type: docs
+toc: true
 ---
 
 
