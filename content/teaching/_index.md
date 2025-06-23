@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-summary: ""
 type: docs
 toc: false
 ---
