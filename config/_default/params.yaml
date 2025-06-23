@@ -15,9 +15,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    local_business_type: 'Macroeconomist'
+    org_name: 'University of Texas at Austin'
+    description: 'Macroeconomist at the University of Texas at Austin.'
     twitter: 'GetResearchDev'
     i_am_a_sponsor: true
   analytics:
