@@ -66,10 +66,7 @@ I am an Assistant Professor of Economics at the <a href="https://liberalarts.ute
 <p>Before joining UT Austin, I held research roles at the International Monetary Fund, Deutsche Bundesbank, OECD, Ministry of Commerce, Government of India, and the National Institute of Public Finance and Policy, and served on the faculty at the University of Delhi.<p>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <span>You can download my CV here:</span>
-  <a class="research-btn" href="/uploads/sahilcv.pdf" target="_blank">CV</a>
+  <a class="research-btn" href="/uploads/sahilcv.pdf" target="_blank">Download CV</a>
 </div>
-
-
 
 <p>You can reach me by e-mail at <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a>.<p> 
