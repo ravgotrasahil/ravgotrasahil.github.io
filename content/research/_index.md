@@ -1,8 +1,7 @@
 ---
 title: ""
-summary: ""
 type: docs
-toc: false
+toc: true
 ---
 
 <hr style="margin: 30px 0;">
