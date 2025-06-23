@@ -1,12 +1,11 @@
 ---
-title: "Research"
+title: ""
 layout: page
 type: page
 toc: false
 ---
 
 <div style="padding-left: 1rem; padding-right: 1rem;">
-<hr style="margin: 30px 0;">
 
 <h2>Publications</h2>
 
