@@ -61,8 +61,8 @@ I am an Assistant Professor of Economics at the <a href="https://liberalarts.ute
 
 <p>My work engages with dynamic stochastic general equilibrium (DSGE) models, exploring how bounded rationality, imperfect expectations, and credibility issues shape economic dynamics and policy outcomes. I often draw on Bayesian econometric methods to estimate and test these models using both macroeconomic and financial data.<p>
 
-<p>I received my PhD in Economics from the <a href="https://www.surrey.ac.uk/economics" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Surrey, UK</a>, where I was awarded the Postgraduate Researcher of the Year prize and held a Turing Fellowship. My dissertation—<em>Essays in Behavioral Macroeconomics</em>—examined how deviations from rational expectations affect the design and effectiveness of economic policy.<p>
+<p>I received my PhD in Economics from the <a href="https://www.surrey.ac.uk/economics" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Surrey, UK</a>, where I was awarded the Postgraduate Researcher of the Year prize and held a Turing Fellowship.<p>
 
-<p>Before joining UT Austin, I held research roles at the International Monetary Fund, Deutsche Bundesbank, and the OECD, and served on the faculty at the University of Delhi.<p>
+<p>Before joining UT Austin, I held research roles at the International Monetary Fund, Deutsche Bundesbank, OECD, Ministry of Commerce, Government of India, and the National Institute of Public Finance and Policy, and served on the faculty at the University of Delhi.<p>
 
 <p>You can reach me by e-mail at <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a>.<p> 
