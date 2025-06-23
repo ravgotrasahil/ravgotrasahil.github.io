@@ -13,10 +13,10 @@ toc: false
 
 <p style="margin-bottom: 0.5rem;">
   <span style="font-size: 18px; color: #343851;">
-    You can reach me by e-mail at:
+    <strong>You can reach me by e-mail at:</strong><br>
   </span><br>
   <span style="font-size: 14px; color: #555;">
-    <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a><br>
+    <a href="mailto:sahil.ravgotra@austin.utexas.edu" style="color: #1a73e8; text-decoration: none;">sahil.ravgotra@austin.utexas.edu</a> or 
     <a href="mailto:sa.ravgotra@gmail.com" style="color: #1a73e8; text-decoration: none;">sa.ravgotra@gmail.com</a>
   </span>
 </p>
