@@ -5,7 +5,7 @@ type: page
 toc: false
 ---
 
-<div style="padding-left: 1rem; padding-right: 1rem;">
+<div class="section-page research-page">
 
 <h2>Publications</h2>
 

@@ -5,7 +5,7 @@ type: page
 toc: false
 ---
 
-<div style="padding-left: 1rem; padding-right: 1rem;">
+<div class="section-page contact-page">
 
 <h2>How to contact me:</h2>
 

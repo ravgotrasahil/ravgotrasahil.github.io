@@ -71,6 +71,35 @@ ul.emoji-list > li:hover:before {
   text-align: justify;
 }
 
+.page-body .max-w-prose:has(.section-page) {
+  max-width: min(100% - 2rem, 980px) !important;
+  width: 100%;
+}
+
+.page-body article.prose:has(.section-page) {
+  max-width: 100% !important;
+  width: 100%;
+}
+
+.section-page {
+  padding-left: clamp(0.5rem, 2vw, 1.5rem);
+  padding-right: clamp(0.5rem, 2vw, 1.5rem);
+}
+
+.section-page h2 {
+  margin-top: 1.75rem;
+  margin-bottom: 1rem;
+}
+
+.section-page h2:first-child {
+  margin-top: 0;
+}
+
+.section-page hr {
+  border: 0;
+  border-top: 1px solid #e6e8ef;
+}
+
 .publication-title {
   font-size: 18px;
   font-weight: bold;
@@ -103,11 +132,6 @@ ul.emoji-list > li:hover:before {
   text-align: justify;
 }
 
-.teaching-page {
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
 .teaching-list {
   display: grid;
   gap: 1.35rem;
@@ -138,4 +162,3 @@ ul.emoji-list > li:hover:before {
   height: 1px;
   background-color: #ccc;
 }
-

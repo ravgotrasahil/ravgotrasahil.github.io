@@ -5,7 +5,7 @@ type: page
 toc: false
 ---
 
-<div class="teaching-page">
+<div class="section-page teaching-page">
 
 <h2>Instructor: University of Texas at Austin</h2>
 
