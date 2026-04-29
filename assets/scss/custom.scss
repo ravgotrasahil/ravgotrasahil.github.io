@@ -71,19 +71,30 @@ ul.emoji-list > li:hover:before {
   text-align: justify;
 }
 
-.page-body .max-w-prose:has(.section-page) {
-  max-width: min(100% - 2rem, 980px) !important;
-  width: 100%;
+.page-body:has(.section-page) {
+  margin-top: 3rem !important;
 }
 
+.page-body:has(.section-page) .max-w-prose,
+.page-body .max-w-prose:has(.section-page) {
+  max-width: min(100% - 4rem, 1280px) !important;
+  width: 100%;
+  justify-content: flex-start !important;
+}
+
+.page-body:has(.section-page) article.prose,
 .page-body article.prose:has(.section-page) {
   max-width: 100% !important;
   width: 100%;
 }
 
 .section-page {
-  padding-left: clamp(0.5rem, 2vw, 1.5rem);
-  padding-right: clamp(0.5rem, 2vw, 1.5rem);
+  padding-left: clamp(0.25rem, 1vw, 1rem);
+  padding-right: clamp(0.25rem, 1vw, 1rem);
+}
+
+.section-page p {
+  max-width: 1120px;
 }
 
 .section-page h2 {
