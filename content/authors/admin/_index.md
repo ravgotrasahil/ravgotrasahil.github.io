@@ -56,16 +56,21 @@ education:
 ---
 
 ## About Me
-<div style="text-align: justify; font-size: 14px; color: #555;">
-I am an Assistant Professor of Economics at the <a href="https://liberalarts.utexas.edu/economics/faculty/sr55289" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Texas at Austin</a>, where I teach graduate and undergraduate courses in macroeconomics and time series econometrics. <p>
+<div class="about-copy">
+<p>
+I am an Assistant Professor of Economics at the <a href="https://liberalarts.utexas.edu/economics/faculty/sr55289" target="_blank" rel="noopener">University of Texas at Austin</a>. My research develops and estimates macroeconomic models to study how expectations, cognitive frictions, and policy credibility shape aggregate dynamics, especially in open economies.
+</p>
 
-<p> My research lies at the intersection of macroeconomic theory and behavioral economics, with a particular focus on monetary and fiscal policy in open economies. My work engages with dynamic stochastic general equilibrium (DSGE) models, exploring how bounded rationality, imperfect expectations, and credibility issues shape economic dynamics and policy outcomes. I often draw on Bayesian econometric methods to estimate and test these models using both macroeconomic and financial data.<p>
+<p>
+My work sits at the intersection of macroeconomic theory, international economics, and behavioral macroeconomics. I use dynamic stochastic general equilibrium models, bounded-rationality frameworks, and Bayesian econometric methods to examine monetary and fiscal policy transmission, exchange-rate dynamics, international spillovers, and the empirical relevance of departures from full-information rational expectations.
+</p>
 
-<p>I received my PhD in Economics from the <a href="https://www.surrey.ac.uk/economics" target="_blank" style="color: #1a73e8; text-decoration: none;">University of Surrey, UK</a>, where I was awarded the Postgraduate Researcher of the Year prize and held a Turing Fellowship.<p>
+<p>
+At UT Austin, I teach graduate and undergraduate courses in macroeconomics and time-series econometrics. I received my PhD in Economics from the <a href="https://www.surrey.ac.uk/economics" target="_blank" rel="noopener">University of Surrey</a>, where I was awarded the Postgraduate Researcher of the Year prize and held a Turing Fellowship.
+</p>
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a class="research-btn" href="/uploads/sahilcv.pdf" target="_blank">Download CV</a>
+<div class="about-actions">
+  <a class="research-btn" href="/uploads/sahilcv.pdf" target="_blank" rel="noopener">Download CV</a>
 </div>
-
 
