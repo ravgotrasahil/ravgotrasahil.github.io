@@ -5,52 +5,44 @@ type: page
 toc: false
 ---
 
-<div style="padding-left: 1rem; padding-right: 1rem;">
+<div class="teaching-page">
 
 <h2>Instructor: University of Texas at Austin</h2>
 
-<p style="margin-bottom: 0.5rem;">
-  <span style="font-size: 18px; color: #343851;">
-    ECO 394L: Macroeconomic Theory
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    Graduate | Fall 2024, Fall 2025 
-  </span>
-</p>
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
-This course offers a comprehensive introduction to modern macroeconomic modeling, with an emphasis on constructing, simulating, and analyzing policy within dynamic frameworks. Tracing the evolution of macroeconomic models over the past four decades, we explore how the core structure of Real Business Cycle (RBC) models, enhanced with nominal rigidities and frictions, forms the foundation of New Keynesian Dynamic Stochastic General Equilibrium (DSGE) models. Students will learn to set up, calibrate, and simulate these models using Dynare in Matlab, starting with a basic Neoclassical Growth Model and progressing through closed- and open-economy RBC and NK models. The course also delves into optimal monetary policy, and extends the standard framework by incorporating bounded rationality, thereby addressing the implications of cognitive frictions for macroeconomic dynamics.
-</p>
+<div class="teaching-list">
+  <article class="teaching-course">
+    <h3 class="course-title">ECO 395M: Time Series Econometrics</h3>
+    <p class="course-meta">Graduate | Spring 2024, Spring 2025, Spring 2026</p>
+    <p class="course-description">
+      This course offers a rigorous introduction to modern econometric methods for analyzing time series data, with applications in macroeconomics and finance. Topics include trend and cycle decomposition, stationarity, ARMA models, forecasting, heteroskedasticity, cointegration, distributed lag models, VARs, impulse response analysis, local projections, nonlinear time series methods, state-space models, Kalman filtering, and Bayesian estimation of DSGE models.
+    </p>
+    <p class="research-buttons">
+      <a class="research-btn" href="/uploads/395msyllabus.pdf" target="_blank" rel="noopener">Spring 2026 Syllabus</a>
+    </p>
+  </article>
 
+  <article class="teaching-course">
+    <h3 class="course-title">ECO 348K: Time Series Econometrics</h3>
+    <p class="course-meta">Undergraduate | Spring 2024, Spring 2025, Fall 2025, Spring 2026</p>
+    <p class="course-description">
+      This course provides a comprehensive introduction to time series econometrics for economics and finance. Students study AR, MA, and ARMA models, model identification, estimation, forecasting, serial correlation, ARCH/GARCH volatility models, VARs, impulse responses, cointegration, nonlinear time series models, and state-space methods, with practical implementation in Stata.
+    </p>
+    <p class="research-buttons">
+      <a class="research-btn" href="/uploads/348ksyllabus.pdf" target="_blank" rel="noopener">Spring 2026 Syllabus</a>
+    </p>
+  </article>
 
-<p style="margin-bottom: 0.5rem;">
-  <span style="font-size: 18px; color: #343851;">
-    ECO 395M: Advance Time-Series Econometrics
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    Graduate | Spring 2024, Spring 2025
-  </span>
-</p>
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
-This course provides an in-depth exploration of advanced econometric techniques designed for time series analysis, with applications in macroeconomics and finance. Emphasizing the unique features of time series data, the course equips students with tools to model economic dynamics and volatility, address non-stationarity, and conduct meaningful policy analysis. Topics covered include ARMA and distributed lag models, ARCH/GARCH models, unit root testing, forecasting methods, VARs and impulse response functions, local projections, state-space modeling, Kalman filtering, and Bayesian estimation of DSGE models. Through hands-on implementation and real-world applications, students will learn to estimate, interpret, and apply time series models to answer pressing economic questions related to monetary and fiscal policy.
-</p>
-<p class="research-buttons">
-  <a class="research-btn" href="uploads/395msyllabus.pdf" target="_blank">Syllabus</a>
-</p>
-
-<p style="margin-bottom: 0.5rem;">
-  <span style="font-size: 18px; color: #343851;">
-    ECO 348K: Time-Series Econometrics
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    Undergraduate | Spring 2024, Fall 2025, Spring 2025
-  </span>
-</p>
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
-This course offers a comprehensive introduction to time series models, equipping students with the theoretical foundations and practical skills needed for economic and financial analysis. Beginning with basic time series properties, the course progresses to advanced topics such as ARCH models, cointegration, error correction models, structural breaks, spectral analysis, and non-linear and state-space frameworks. Emphasizing both conceptual understanding and empirical application, students will gain hands-on experience in model estimation, hypothesis testing, and forecasting. By the end of the course, they will be well-prepared to apply advanced econometric techniques to complex time series data in both academic and policy-oriented settings.
-</p>
-<p class="research-buttons">
-  <a class="research-btn" href="uploads/348ksyllabus.pdf" target="_blank">Syllabus</a>
-</p>
+  <article class="teaching-course">
+    <h3 class="course-title">ECO 394L: Macroeconomic Theory</h3>
+    <p class="course-meta">Graduate | Fall 2024, Fall 2025</p>
+    <p class="course-description">
+      This course introduces modern macroeconomic modeling with an emphasis on constructing, simulating, and analyzing dynamic models for policy. The course moves from neoclassical growth and RBC models to closed- and open-economy New Keynesian DSGE models, with applications in Dynare and Matlab, optimal monetary policy, and bounded rationality.
+    </p>
+    <p class="research-buttons">
+      <a class="research-btn" href="/uploads/394lsyllabus.pdf" target="_blank" rel="noopener">Fall 2025 Syllabus</a>
+    </p>
+  </article>
+</div>
 
 <hr style="margin: 30px 0;">
 
