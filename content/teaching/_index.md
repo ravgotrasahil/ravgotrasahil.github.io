@@ -11,10 +11,21 @@ toc: false
 
 <div class="teaching-list">
   <article class="teaching-course">
+    <h3 class="course-title">ECO 394L: Macroeconomic Theory</h3>
+    <p class="course-meta">Graduate | Fall 2024, Fall 2025</p>
+    <p class="course-description">
+      This graduate course develops the analytical and computational machinery of modern dynamic macroeconomics. The sequence begins with intertemporal optimization, competitive equilibrium, and recursive methods, then builds toward real business cycle and New Keynesian DSGE environments with nominal rigidities, monetary policy rules, and propagation mechanisms. Students learn to derive equilibrium conditions, characterize stability and determinacy, calibrate and simulate models in Dynare and Matlab, and use the resulting framework to evaluate policy counterfactuals, optimal monetary policy, and departures from full-information rational expectations.
+    </p>
+    <p class="research-buttons">
+      <a class="research-btn" href="/uploads/394lsyllabus.pdf" target="_blank" rel="noopener">Fall 2025 Syllabus</a>
+    </p>
+  </article>
+
+  <article class="teaching-course">
     <h3 class="course-title">ECO 395M: Time Series Econometrics</h3>
     <p class="course-meta">Graduate | Spring 2024, Spring 2025, Spring 2026</p>
     <p class="course-description">
-      This course offers a rigorous introduction to modern econometric methods for analyzing time series data, with applications in macroeconomics and finance. Topics include trend and cycle decomposition, stationarity, ARMA models, forecasting, heteroskedasticity, cointegration, distributed lag models, VARs, impulse response analysis, local projections, nonlinear time series methods, state-space models, Kalman filtering, and Bayesian estimation of DSGE models.
+      This graduate course provides a rigorous treatment of time-series econometrics for empirical macroeconomics and finance. The course emphasizes stochastic processes, trend-cycle decompositions, stationarity and persistence, likelihood-based estimation, forecasting, volatility modeling, cointegration, structural VARs, impulse-response analysis, local projections, nonlinear dynamics, state-space systems, Kalman filtering, and Bayesian estimation of DSGE models. Particular attention is given to identification, inference, and the translation of econometric objects into economically interpretable dynamic responses.
     </p>
     <p class="research-buttons">
       <a class="research-btn" href="/uploads/395msyllabus.pdf" target="_blank" rel="noopener">Spring 2026 Syllabus</a>
@@ -25,21 +36,10 @@ toc: false
     <h3 class="course-title">ECO 348K: Time Series Econometrics</h3>
     <p class="course-meta">Undergraduate | Spring 2024, Spring 2025, Fall 2025, Spring 2026</p>
     <p class="course-description">
-      This course provides a comprehensive introduction to time series econometrics for economics and finance. Students study AR, MA, and ARMA models, model identification, estimation, forecasting, serial correlation, ARCH/GARCH volatility models, VARs, impulse responses, cointegration, nonlinear time series models, and state-space methods, with practical implementation in Stata.
+      This undergraduate course introduces the core econometric tools used to model, forecast, and interpret dynamic economic and financial data. Students develop a formal understanding of autocorrelation, stationarity, ARMA representations, model selection, forecast evaluation, distributed lag models, ARCH/GARCH volatility, vector autoregressions, impulse responses, cointegration, error-correction models, nonlinear dynamics, and state-space methods. Empirical implementation in Stata is integrated throughout, with an emphasis on disciplined specification, diagnostic testing, and substantive economic interpretation.
     </p>
     <p class="research-buttons">
       <a class="research-btn" href="/uploads/348ksyllabus.pdf" target="_blank" rel="noopener">Spring 2026 Syllabus</a>
-    </p>
-  </article>
-
-  <article class="teaching-course">
-    <h3 class="course-title">ECO 394L: Macroeconomic Theory</h3>
-    <p class="course-meta">Graduate | Fall 2024, Fall 2025</p>
-    <p class="course-description">
-      This course introduces modern macroeconomic modeling with an emphasis on constructing, simulating, and analyzing dynamic models for policy. The course moves from neoclassical growth and RBC models to closed- and open-economy New Keynesian DSGE models, with applications in Dynare and Matlab, optimal monetary policy, and bounded rationality.
-    </p>
-    <p class="research-buttons">
-      <a class="research-btn" href="/uploads/394lsyllabus.pdf" target="_blank" rel="noopener">Fall 2025 Syllabus</a>
     </p>
   </article>
 </div>
