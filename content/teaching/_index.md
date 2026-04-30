@@ -55,10 +55,12 @@ toc: false
       <div class="compact-teaching-item">
         <span class="compact-course">CIMS Summer School</span>
         <span class="compact-meta">University of Surrey &middot; PhD &middot; 2021, 2023</span>
+        <span class="compact-description">A five-day foundations course for early-stage researchers familiar with RBC or DSGE models but new to Dynare, moving from Matlab/Dynare basics to a closed-economy New Keynesian model, Bayesian estimation, optimal policy, and open-economy extensions.</span>
       </div>
       <div class="compact-teaching-item">
         <span class="compact-course">Open Economy DSGE Modelling</span>
         <span class="compact-meta">City, University of London &middot; PhD &middot; 2023</span>
+        <span class="compact-description">A three-day course for MSc, MRes, PhD students, and researchers on the construction, calibration, and estimation of open-economy DSGE models, with applications to emerging economies, monetary policy, foreign exchange intervention, and behavioral alternatives to rational expectations.</span>
       </div>
     </div>
   </div>

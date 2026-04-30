@@ -146,11 +146,12 @@
 }
 
 .compact-teaching-list {
-  display: grid;
+  display: grid !important;
   gap: 0.8rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(360px, 1fr)) !important;
   margin-top: 0.9rem;
   max-width: 1120px;
+  width: 100%;
 }
 
 .compact-teaching-list--short {
@@ -180,6 +181,13 @@
   line-height: 1.4;
 }
 
+.compact-description {
+  color: #555;
+  font-size: 13px;
+  line-height: 1.55;
+  margin-top: 0.35rem;
+}
+
 .older-teaching {
   max-width: 1120px;
 }
@@ -203,7 +211,7 @@
   text-transform: uppercase;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 820px) {
   .page-body:has(.section-page) {
     margin-top: 1.5rem !important;
   }
@@ -247,7 +255,7 @@
 
   .compact-teaching-list {
     gap: 0.65rem;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 
   .compact-teaching-item {
@@ -260,6 +268,10 @@
 
   .compact-meta {
     font-size: 13px;
+  }
+
+  .compact-description {
+    font-size: 12.5px;
   }
 
   .older-teaching-section h3 {
