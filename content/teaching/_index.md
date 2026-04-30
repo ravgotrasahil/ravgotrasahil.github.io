@@ -46,37 +46,23 @@ toc: false
 
 <hr style="margin: 30px 0;">
 
-<h2>Instructor: Short Courses</h2>
-
-<p style="margin-bottom: 0.5rem;">
-  <span style="font-size: 18px; color: #343851;">
-    CIMS Summer School | University of Surrey
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    PhD | 2021, 2023 
-  </span>
-</p>
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
-This five-day foundations course is aimed at early-stage researchers familiar with RBC or DSGE models but new to Dynare. Starting with the basics of Dynare in Matlab, the course builds a closed-economy New Keynesian DSGE model, covers Bayesian estimation, and concludes with applications to optimal policy and open-economy extensions.
-</p>
-
-<p style="margin-bottom: 0.5rem;">
-  <span style="font-size: 18px; color: #343851;">
-    Open Economy DSGE Modelling | CITY, University of London
-  </span><br>
-  <span style="font-size: 14px; color: #555;">
-    PhD | 2023 
-  </span>
-</p>
-<p style="font-size: 14px; color: #555; margin-top: 5px; text-align: justify;">
-This three-day course offers an introduction to DSGE modeling for MSc, MRES, PhD students, and researchers in academia, central banks, and policy institutions. Focusing on open and emerging economies, it covers the construction, calibration, and estimation of DSGE models using Dynare, assuming basic knowledge of Matlab and dynamic optimization. The course progresses from closed-economy RBC and New Keynesian models to open-economy frameworks with emerging market features, including a behavioral alternative to rational expectations. Practical applications include policy analysis with monetary and foreign exchange intervention tools.
-</p>
-
-<hr style="margin: 30px 0;">
-
 <h2>Previous Teaching</h2>
 
 <div class="older-teaching">
+  <div class="older-teaching-section">
+    <h3>Instructor: Short Courses</h3>
+    <div class="compact-teaching-list">
+      <div class="compact-teaching-item">
+        <span class="compact-course">CIMS Summer School | University of Surrey</span>
+        <span class="compact-meta">PhD | 2021, 2023</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">Open Economy DSGE Modelling | City, University of London</span>
+        <span class="compact-meta">PhD | 2023</span>
+      </div>
+    </div>
+  </div>
+
   <div class="older-teaching-section">
     <h3>Teaching Assistant: University of Surrey</h3>
     <div class="compact-teaching-list">

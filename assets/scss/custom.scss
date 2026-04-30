@@ -205,23 +205,21 @@ ul.emoji-list > li:hover:before {
 }
 
 .compact-teaching-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 0.45rem 1rem;
+  display: block;
   margin-top: 0.45rem;
-  max-width: 1120px;
+  max-width: 880px;
 }
 
 .compact-teaching-list--short {
-  max-width: 900px;
+  max-width: 880px;
 }
 
 .compact-teaching-item {
   align-items: baseline;
   border-bottom: 1px solid #edf0f5;
-  display: flex;
-  gap: 0.75rem;
-  justify-content: space-between;
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: minmax(0, 1fr) auto;
   padding: 0.42rem 0;
 }
 
@@ -241,20 +239,20 @@ ul.emoji-list > li:hover:before {
 }
 
 .older-teaching {
-  max-width: 1120px;
+  max-width: 900px;
 }
 
 .older-teaching-section {
-  margin-top: 1rem;
+  margin-top: 0.95rem;
 }
 
 .older-teaching-section + .older-teaching-section {
-  margin-top: 1.35rem;
+  margin-top: 1.2rem;
 }
 
 .older-teaching-section h3 {
   color: #343851;
-  font-size: 16px !important;
+  font-size: 15px !important;
   font-weight: 700;
   line-height: 1.3;
   margin-bottom: 0.35rem;
@@ -304,14 +302,13 @@ ul.emoji-list > li:hover:before {
   }
 
   .compact-teaching-list {
-    grid-template-columns: 1fr;
-    gap: 0;
+    max-width: 100%;
   }
 
   .compact-teaching-item {
     align-items: flex-start;
-    flex-direction: column;
     gap: 0.2rem;
+    grid-template-columns: 1fr;
     padding: 0.55rem 0;
   }
 
