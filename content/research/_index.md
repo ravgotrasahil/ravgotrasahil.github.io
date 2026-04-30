@@ -37,11 +37,39 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 
 <p style="margin-bottom: 0.5rem; text-align: justify;">
   <span style="font-size: 18px; color: #343851;">
+    Financial Frictions and Monetary Policy in an Open Economy Model
+  </span><br>
+  <span style="font-size: 14px; color: #555;">
+    with <a href="https://www.economics.ox.ac.uk/people/francesco-zanetti" target="_blank" style="color: #1a73e8; text-decoration: none;">Francesco Zanetti</a>.
+  </span>
+</p>
+
+<p style="margin-bottom: 0.5rem; text-align: justify;">
+  <span style="font-size: 18px; color: #343851;">
+    Inequality and Welfare in a HANK model
+  </span><br>
+  <span style="font-size: 14px; color: #555;">
+    with <a href="https://www.jihenearfaoui.com/" target="_blank" style="color: #1a73e8; text-decoration: none;">Jihene Arfaoui</a>.
+  </span>
+</p>
+
+<p style="margin-bottom: 0.5rem; text-align: justify;">
+  <span style="font-size: 18px; color: #343851;">
     New Keynesian Model of Debt and Equity without Rational Expectations
   </span><br>
   <span style="font-size: 14px; color: #555;">
     with <a href="https://sites.google.com/site/professorbrucepreston" target="_blank" style="color: #1a73e8; text-decoration: none;">Bruce Preston</a> and 
     <a href="https://sites.google.com/view/stefano-eusepi/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Stefano Eusepi</a>.
+  </span>
+</p>
+
+<p style="margin-bottom: 0.5rem; text-align: justify;">
+  <span style="font-size: 18px; color: #343851;">
+    Optimal Monetary Policy and Bounded Rationality
+  </span><br>
+  <span style="font-size: 14px; color: #555;">
+    with <a href="https://sites.google.com/view/marcin-kolasa/home" target="_blank" style="color: #1a73e8; text-decoration: none;">Marcin Kolasa</a> and 
+    <a href="http://www.zabczyk.com/" target="_blank" style="color: #1a73e8; text-decoration: none;">Pawel Zabczyk</a>.
   </span>
 </p>
 
@@ -56,7 +84,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 
 <p style="margin-bottom: 0.5rem; text-align: justify;">
   <span style="font-size: 18px; color: #343851;">
-    Linear-Quadratic Approximation of a Small Open Economy NK Model
+    Linear-Quadratic Approximation of a Small Open Economy New Keynesian Model
   </span><br>
   <span style="font-size: 14px; color: #555;">
     with <a href="https://www.surrey.ac.uk/people/leilane-de-freitas-rocha-cambara" target="_blank" style="color: #1a73e8; text-decoration: none;">Leilane Cambara</a> and 
@@ -66,7 +94,7 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 
 <p style="margin-bottom: 0.5rem; text-align: justify;">
   <span style="font-size: 18px; color: #343851;">
-    Habit, Forward Guidance, and Monetary Policy
+    Habit, Finite-Horizon Learning and Imperfect Credibility in a New Keynesian Model
   </span>
 </p>
 
@@ -98,6 +126,30 @@ We analyze the implications of adding boundedly rational agents à la Gabaix (20
 </p>
 <p class="research-buttons">
   <a class="research-btn" href="/uploads/discussionnguyen.pdf" target="_blank">Slides</a>
+</p>
+
+<hr style="margin: 30px 0;">
+
+<h2>Policy Publications</h2>
+
+<p style="margin-bottom: 0.5rem; text-align: justify;">
+  <span style="font-size: 18px; color: #343851;">
+    Macroeconomic Policy Revival in Mining and Environmental Federalism: Glimpses from Modi Budget 2015–16
+  </span><br>
+  <span style="font-size: 14px; color: #555;">
+    with <a href="https://nipfp.org.in/staff-base-index-page/faculty-index-page/lekha-chakraborty/" target="_blank" style="color: #1a73e8; text-decoration: none;">Lekha Chakraborty</a>. 
+    <strong>Yojana</strong>, 2015.
+  </span>
+</p>
+
+<p style="margin-bottom: 0.5rem; text-align: justify;">
+  <span style="font-size: 18px; color: #343851;">
+    Economic Policy for Revival of Mining
+  </span><br>
+  <span style="font-size: 14px; color: #555;">
+    with <a href="https://nipfp.org.in/staff-base-index-page/faculty-index-page/lekha-chakraborty/" target="_blank" style="color: #1a73e8; text-decoration: none;">Lekha Chakraborty</a>. 
+    <strong>Yojana</strong>, 2015.
+  </span>
 </p>
 
 </div>

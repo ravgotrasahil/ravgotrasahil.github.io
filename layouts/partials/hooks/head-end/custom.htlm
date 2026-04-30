@@ -1,1 +1,15 @@
 <link rel="stylesheet" href="/css/custom.css">
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var path = window.location.pathname.replace(/\/+$/, '') || '/';
+  var navLinks = document.querySelectorAll('header nav a, nav.nav a, .navbar a');
+  navLinks.forEach(function(link) {
+    var href = link.getAttribute('href');
+    if (!href) return;
+    var linkPath = href.replace(/\/+$/, '') || '/';
+    if (path === linkPath || (linkPath !== '/' && path.startsWith(linkPath))) {
+      link.classList.add('nav-active');
+    }
+  });
+});
+</script>

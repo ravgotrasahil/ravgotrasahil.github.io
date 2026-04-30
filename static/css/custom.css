@@ -297,6 +297,22 @@
   }
 }
 
+/* Navbar active state — keep current section link green */
+header nav a.active,
+header nav a[aria-current="page"],
+header nav a[aria-current="true"],
+nav.nav a.active,
+nav.nav a[aria-current="page"],
+.navbar a.active,
+.navbar a[aria-current="page"] {
+  color: var(--primary-500, #10b981) !important;
+}
+
+header nav a.nav-active,
+nav a.nav-active {
+  color: var(--primary-500, #10b981) !important;
+}
+
 .site-footer {
   border-top: 1px solid #eee;
   padding-top: 1.5rem;

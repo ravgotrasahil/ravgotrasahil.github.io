@@ -356,6 +356,23 @@ ul.emoji-list > li:hover:before {
   }
 }
 
+/* Navbar active state — keep the current section's link green */
+header nav a.active,
+header nav a[aria-current="page"],
+header nav a[aria-current="true"],
+nav.nav a.active,
+nav.nav a[aria-current="page"],
+.navbar a.active,
+.navbar a[aria-current="page"] {
+  color: var(--primary-500, #10b981) !important;
+}
+
+/* Fallback: JS adds .nav-active class based on current path */
+header nav a.nav-active,
+nav a.nav-active {
+  color: var(--primary-500, #10b981) !important;
+}
+
 .attribution {
   display: none !important;
 }
