@@ -146,58 +146,61 @@
 }
 
 .compact-teaching-list {
-  display: block;
-  margin-top: 0.45rem;
-  max-width: 880px;
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 0.9rem;
+  max-width: 1120px;
 }
 
 .compact-teaching-list--short {
-  max-width: 880px;
+  max-width: 1120px;
 }
 
 .compact-teaching-item {
-  align-items: baseline;
-  border-bottom: 1px solid #edf0f5;
-  display: grid;
-  gap: 1.25rem;
-  grid-template-columns: minmax(0, 1fr) auto;
-  padding: 0.42rem 0;
+  background: #f8f7f1;
+  border: 1px solid #f1efe7;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.28rem;
+  padding: 1rem 1.15rem;
 }
 
 .compact-course {
-  color: #343851;
-  font-size: 13.5px;
-  font-weight: 600;
-  line-height: 1.35;
+  color: #171717;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.3;
 }
 
 .compact-meta {
-  color: #6b7280;
-  flex: 0 0 auto;
-  font-size: 12px;
-  line-height: 1.35;
-  white-space: nowrap;
+  color: #454545;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
 .older-teaching {
-  max-width: 900px;
+  max-width: 1120px;
 }
 
 .older-teaching-section {
-  margin-top: 0.95rem;
+  margin-top: 1.9rem;
 }
 
 .older-teaching-section + .older-teaching-section {
-  margin-top: 1.2rem;
+  margin-top: 2.2rem;
 }
 
 .older-teaching-section h3 {
-  color: #343851;
-  font-size: 15px !important;
+  color: #444;
+  font-size: 17px !important;
   font-weight: 700;
-  line-height: 1.3;
-  margin-bottom: 0.35rem;
+  letter-spacing: 0.08em;
+  line-height: 1.25;
+  margin-bottom: 0.8rem;
   margin-top: 0;
+  text-transform: uppercase;
 }
 
 @media (max-width: 768px) {
@@ -243,18 +246,25 @@
   }
 
   .compact-teaching-list {
-    max-width: 100%;
+    gap: 0.65rem;
+    grid-template-columns: 1fr;
   }
 
   .compact-teaching-item {
-    align-items: flex-start;
-    gap: 0.2rem;
-    grid-template-columns: 1fr;
-    padding: 0.55rem 0;
+    padding: 0.85rem 0.95rem;
+  }
+
+  .compact-course {
+    font-size: 15px;
   }
 
   .compact-meta {
-    white-space: normal;
+    font-size: 13px;
+  }
+
+  .older-teaching-section h3 {
+    font-size: 14px !important;
+    letter-spacing: 0.06em;
   }
 }
 

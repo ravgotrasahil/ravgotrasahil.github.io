@@ -53,12 +53,12 @@ toc: false
     <h3>Instructor: Short Courses</h3>
     <div class="compact-teaching-list">
       <div class="compact-teaching-item">
-        <span class="compact-course">CIMS Summer School | University of Surrey</span>
-        <span class="compact-meta">PhD | 2021, 2023</span>
+        <span class="compact-course">CIMS Summer School</span>
+        <span class="compact-meta">University of Surrey &middot; PhD &middot; 2021, 2023</span>
       </div>
       <div class="compact-teaching-item">
-        <span class="compact-course">Open Economy DSGE Modelling | City, University of London</span>
-        <span class="compact-meta">PhD | 2023</span>
+        <span class="compact-course">Open Economy DSGE Modelling</span>
+        <span class="compact-meta">City, University of London &middot; PhD &middot; 2023</span>
       </div>
     </div>
   </div>
@@ -67,28 +67,28 @@ toc: false
     <h3>Teaching Assistant: University of Surrey</h3>
     <div class="compact-teaching-list">
       <div class="compact-teaching-item">
-        <span class="compact-course">ECOM047: Advanced Macroeconomics</span>
-        <span class="compact-meta">Graduate | Spring 2022</span>
+        <span class="compact-course">Advanced Macroeconomics</span>
+        <span class="compact-meta">ECOM047 &middot; Graduate &middot; Spring 2022</span>
       </div>
       <div class="compact-teaching-item">
-        <span class="compact-course">ECO2046: Intermediate Macroeconomics II</span>
-        <span class="compact-meta">Undergraduate | Spring 2022</span>
+        <span class="compact-course">Intermediate Macroeconomics II</span>
+        <span class="compact-meta">ECO2046 &middot; Undergraduate &middot; Spring 2022</span>
       </div>
       <div class="compact-teaching-item">
-        <span class="compact-course">ECOM057: Foundations of Macroeconomics</span>
-        <span class="compact-meta">Graduate | Fall 2021</span>
+        <span class="compact-course">Foundations of Macroeconomics</span>
+        <span class="compact-meta">ECOM057 &middot; Graduate &middot; Fall 2021</span>
       </div>
       <div class="compact-teaching-item">
-        <span class="compact-course">ECO1019: Principles of Macroeconomics</span>
-        <span class="compact-meta">Undergraduate | Fall 2020</span>
+        <span class="compact-course">Principles of Macroeconomics</span>
+        <span class="compact-meta">ECO1019 &middot; Undergraduate &middot; Fall 2020</span>
       </div>
       <div class="compact-teaching-item">
-        <span class="compact-course">ECO1005: Mathematics for Economics</span>
-        <span class="compact-meta">Undergraduate | Fall 2020</span>
+        <span class="compact-course">Mathematics for Economics</span>
+        <span class="compact-meta">ECO1005 &middot; Undergraduate &middot; Fall 2020</span>
       </div>
       <div class="compact-teaching-item">
-        <span class="compact-course">ECO1020: Statistics for Economics</span>
-        <span class="compact-meta">Undergraduate | Spring 2021</span>
+        <span class="compact-course">Statistics for Economics</span>
+        <span class="compact-meta">ECO1020 &middot; Undergraduate &middot; Spring 2021</span>
       </div>
     </div>
   </div>
@@ -98,15 +98,19 @@ toc: false
     <div class="compact-teaching-list compact-teaching-list--short">
       <div class="compact-teaching-item">
         <span class="compact-course">Mathematical Economics</span>
-        <span class="compact-meta">Undergraduate | Fall 2015-19</span>
+        <span class="compact-meta">Undergraduate &middot; Fall 2015-19</span>
       </div>
       <div class="compact-teaching-item">
         <span class="compact-course">Statistics for Economics</span>
-        <span class="compact-meta">Undergraduate | Spring 2015-19</span>
+        <span class="compact-meta">Undergraduate &middot; Spring 2015-19</span>
       </div>
       <div class="compact-teaching-item">
         <span class="compact-course">Macroeconomics</span>
-        <span class="compact-meta">Undergraduate | Fall 2015-19</span>
+        <span class="compact-meta">Undergraduate &middot; Fall 2015-19</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">Intermediate Microeconomics</span>
+        <span class="compact-meta">Undergraduate &middot; Spring 2015-19</span>
       </div>
     </div>
   </div>
