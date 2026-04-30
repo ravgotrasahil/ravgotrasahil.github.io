@@ -74,51 +74,55 @@ This three-day course offers an introduction to DSGE modeling for MSc, MRES, PhD
 
 <hr style="margin: 30px 0;">
 
-<h2>Teaching Assistant: University of Surrey</h2>
+<h2>Previous Teaching</h2>
 
-<div class="compact-teaching-list">
-  <div class="compact-teaching-item">
-    <span class="compact-course">ECOM047: Advanced Macroeconomics</span>
-    <span class="compact-meta">Graduate | Spring 2022</span>
+<div class="older-teaching">
+  <div class="older-teaching-section">
+    <h3>Teaching Assistant: University of Surrey</h3>
+    <div class="compact-teaching-list">
+      <div class="compact-teaching-item">
+        <span class="compact-course">ECOM047: Advanced Macroeconomics</span>
+        <span class="compact-meta">Graduate | Spring 2022</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">ECO2046: Intermediate Macroeconomics II</span>
+        <span class="compact-meta">Undergraduate | Spring 2022</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">ECOM057: Foundations of Macroeconomics</span>
+        <span class="compact-meta">Graduate | Fall 2021</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">ECO1019: Principles of Macroeconomics</span>
+        <span class="compact-meta">Undergraduate | Fall 2020</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">ECO1005: Mathematics for Economics</span>
+        <span class="compact-meta">Undergraduate | Fall 2020</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">ECO1020: Statistics for Economics</span>
+        <span class="compact-meta">Undergraduate | Spring 2021</span>
+      </div>
+    </div>
   </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">ECO2046: Intermediate Macroeconomics II</span>
-    <span class="compact-meta">Undergraduate | Spring 2022</span>
-  </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">ECOM057: Foundations of Macroeconomics</span>
-    <span class="compact-meta">Graduate | Fall 2021</span>
-  </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">ECO1019: Principles of Macroeconomics</span>
-    <span class="compact-meta">Undergraduate | Fall 2020</span>
-  </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">ECO1005: Mathematics for Economics</span>
-    <span class="compact-meta">Undergraduate | Fall 2020</span>
-  </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">ECO1020: Statistics for Economics</span>
-    <span class="compact-meta">Undergraduate | Spring 2021</span>
-  </div>
-</div>
 
-<hr style="margin: 30px 0;">
-
-<h2>Instructor: University of Delhi</h2>
-
-<div class="compact-teaching-list compact-teaching-list--short">
-  <div class="compact-teaching-item">
-    <span class="compact-course">Mathematical Economics</span>
-    <span class="compact-meta">Undergraduate | Fall 2015-19</span>
-  </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">Statistics for Economics</span>
-    <span class="compact-meta">Undergraduate | Spring 2015-19</span>
-  </div>
-  <div class="compact-teaching-item">
-    <span class="compact-course">Macroeconomics</span>
-    <span class="compact-meta">Undergraduate | Fall 2015-19</span>
+  <div class="older-teaching-section">
+    <h3>Instructor: University of Delhi</h3>
+    <div class="compact-teaching-list compact-teaching-list--short">
+      <div class="compact-teaching-item">
+        <span class="compact-course">Mathematical Economics</span>
+        <span class="compact-meta">Undergraduate | Fall 2015-19</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">Statistics for Economics</span>
+        <span class="compact-meta">Undergraduate | Spring 2015-19</span>
+      </div>
+      <div class="compact-teaching-item">
+        <span class="compact-course">Macroeconomics</span>
+        <span class="compact-meta">Undergraduate | Fall 2015-19</span>
+      </div>
+    </div>
   </div>
 </div>
 
